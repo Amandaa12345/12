@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsWMSConnections version="1.0">
+    <wms dpiMode="7" ignoreGetMapURI="false" invertAxisOrientation="false" ignoreGetFeatureInfoURI="false" ignoreAxisOrientation="false" name="NLSC" url="http://maps.nlsc.gov.tw/S_Maps/wmts" password="" smoothPixmapTransform="false" username=""/>
+</qgsWMSConnections>
